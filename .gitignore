@@ -1,0 +1,5 @@
+*.meta
+*.demo
+**/PPODemonstrations
+**/Demonstrations
+**/DemonstrationsObs
