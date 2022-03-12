@@ -23,5 +23,5 @@ $ cd ml-agents-2.1-dev
 $ pip3 install -e ./ml-agents-envs
 $ pip3 install -e ./ml-agents
 ```  
-Install ML-Agents in the Unity Editor by following the installation [guide](ml-agents-2.1-dev/docs/Installation.md)
+Install ML-Agents in the Unity Editor by following the installation [guide](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Installation.md)
 
